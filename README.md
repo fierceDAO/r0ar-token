@@ -34,7 +34,7 @@ R0AR Token is licensed under the [MIT License]. Please review the license file f
 
 Contact:
 ---------
-For any inquiries or support related to R0AR Token, you can reach out to us via contact@r0ar.io.
+For any inquiries or support related to R0AR Token, you can reach out to us via contact-us@r0ar.io.
 
 Thank you for choosing R0AR Token. We look forward to seeing how you utilize it in your projects!
 
